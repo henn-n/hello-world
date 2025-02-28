@@ -1,0 +1,3 @@
+ROUTINE test [Type=INT]
+test ;; test routine
+    write "Hello World !!!",!

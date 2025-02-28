@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "mini-docker",
+        "ns": "USER",
+        "active": true
+    }
+}

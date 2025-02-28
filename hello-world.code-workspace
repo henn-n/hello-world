@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "mini-docker:USER",
+			"uri": "isfs://mini-docker:user/?generated=1&mapped=0&system=1"
+		}
+	],
+	"settings": {}
+}
